@@ -10,9 +10,9 @@ class CounterView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('Counter')),
       body: Center(
-        child: BlocBuilder<CounterBloc, int>(
+        child: BlocBuilder<CounterBloc, CounterState>(
           builder: (context, state) {
-            return Text('$state', style: const TextStyle(fontSize: 24.0));
+            return Text('${state.val}', style: const TextStyle(fontSize: 24.0));
           },
         ),
       ),
