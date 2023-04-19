@@ -1,4 +1,4 @@
-# Flutter Bloc Playground
+# Counter
 
 <table>
   <tr>
