@@ -1,4 +1,4 @@
-# bloc_playground
+# Flutter Bloc Playground
 
 <table>
   <tr>
