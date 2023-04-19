@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>
-      <a href="https://github.com/JooYoo/Flutter-blocPlayground/tree/counter" target="_blank">Counter</a>
+      <a href="https://github.com/JooYoo/Flutter-blocPlayground/tree/counter" target="_blank">🔗 Counter</a>
     </th>
   </tr>
   <tr>
