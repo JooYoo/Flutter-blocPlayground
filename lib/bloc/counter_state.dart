@@ -11,13 +11,9 @@ class CounterInitial extends CounterState {
 }
 
 class IncrementState extends CounterState {
-  final int value;
-
-  IncrementState(this.value) : super(value);
+  IncrementState(super.val);
 }
 
 class DecrementState extends CounterState {
-  final int value;
-
-  DecrementState(this.value) : super(value);
+  DecrementState(super.val);
 }
